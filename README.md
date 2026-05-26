@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=AI+Full-Stack+Developer;Open-source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
+</p>
+</p>
 ---
 
 <!-- ABOUT ME -->
