@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">AI Full-Stack Developer | Recreational Coder | Open-source Enthusiast</h3>
 
-<!-- TYPING SVG -->
+
+<!-- TYPING SVG - 增加宽度 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=AI+Full-Stack+Developer;Open-source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=AI+Full-Stack+Developer;Open-source+Enthusiast" alt="Typing SVG" />
 </p>
-</p>
-</p>
+
 ---
 
 <!-- ABOUT ME -->
@@ -17,7 +17,6 @@
 - 💬 Ask me about **Python, JavaScript, React, Next.js, AI/ML**
 - 📫 How to reach me: **marcos34578865434578757@gmail.com**
 - 📄 Know about my experiences [here](https://marcos-blog-project.vercel.app/)
-- ⚡ Fun fact: **I love coding and exploring new technologies!**
 
 ---
 
@@ -74,15 +73,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=false" alt="your-username" />
-</p>
-
----
-
-<!-- SUPPORT -->
-<h2>💬 Support</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-  </a>
 </p>
