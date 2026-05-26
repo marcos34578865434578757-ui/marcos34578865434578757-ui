@@ -8,22 +8,26 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=AI+Full-Stack+Developer;Open-source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=AI+Full-Stack+Developer;Open-source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
+---
+
 <!-- ABOUT ME -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h2>🧠 About Me</h2>
 
 - 🌱 I'm currently learning **AI, Machine Learning, and Full-Stack Development**
 - 💬 Ask me about **Python, JavaScript, React, Next.js, AI/ML**
-- 📫 How to reach me **marcos34578865434578757@gmail.com**
+- 📫 How to reach me: **marcos34578865434578757@gmail.com**
 - 📄 Know about my experiences [here](https://marcos-blog-project.vercel.app/)
+- ⚡ Fun fact: **I love coding and exploring new technologies!**
+
+---
 
 <!-- CONNECT WITH ME -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>🤝 Connect with Me</h2>
+
+<p align="center">
   <a href="https://marcos-blog-project.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/BLOG-Marcos-0E75B6?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
@@ -35,46 +39,53 @@
   </a>
 </p>
 
+---
+
 <!-- TECH STACK -->
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://devicons.dev/devicons/devicons/original/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+<h2>💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+---
 
 <!-- GITHUB STATS -->
-<h3 align="left">GitHub Stats:</h3>
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="your-username" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false" alt="your-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=false" alt="your-username" />
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=false" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=false" alt="your-username" />
+</p>
+
+---
+
+<!-- SUPPORT -->
+<h2>💬 Support</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
 </p>
