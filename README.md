@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">AI Full-Stack Developer | Recreational Coder | Open-source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 <!-- TYPING SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=AI+Full-Stack+Developer;Open-source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
