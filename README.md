@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Slogan -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Marcos%EF%BC%8C+an+AI+Full-Stack+Developer+%F0%9F%91%8B;A+Gen+Z+Coder+Born+in+2006+%F0%9F%92%BB;Bridging+LLMs+with+Modern+Web+Tech+%F0%9F%9A%80;ACTIVELY+LOOKING+FOR+AN+AI+AGENT+APPLICATION+DEVELOPMENT+ENGINEER+ROLE+!+%F0%9F%8F%AF)](https://git.io/typing-svg)
+<h1>Hi, I'm Marcos 👋</h1>
+<h3>A Gen Z Coder Born in 2006 💻</h3>
+<h3>Bridging LLMs with Modern Web Tech 🚀</h3>
+<h3>ACTIVELY LOOKING FOR AN AI AGENT APPLICATION DEVELOPMENT ENGINEER ROLE ! 🎯</h3>
 
 
 **` 🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP `**
