@@ -55,25 +55,16 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 
 <div align="center">
 
-<!-- 🌟 Star History Chart -->
-<img src="https://api.star-history.com/svg?repos=Marcos-wu/ai-agent-daily-mentor,Marcos-wu/ai-interview,Marcos-wu/tool-navigation&type=Date" alt="Star History Chart" width="600"/>
-
+<!-- 🌟 Real-Time Star Count (shields.io queries GitHub API on every page load) -->
+[![ai-agent-daily-mentor Stars](https://img.shields.io/github/stars/Marcos-wu/ai-agent-daily-mentor?style=for-the-badge&label=ai-agent-daily-mentor&logo=github&logoColor=white&color=yellow)](https://github.com/Marcos-wu/ai-agent-daily-mentor)
+[![tool-navigation Stars](https://img.shields.io/github/stars/Marcos-wu/tool-navigation?style=for-the-badge&label=tool-navigation&logo=github&logoColor=white&color=blue)](https://github.com/Marcos-wu/tool-navigation)
+[![ai-interview Stars](https://img.shields.io/github/stars/Marcos-wu/ai-interview?style=for-the-badge&label=ai-interview&logo=github&logoColor=white&color=green)](https://github.com/Marcos-wu/ai-interview)
+<br/>
 <br/>
 
-<!-- ⭐ Repository Star Breakdown -->
+<!-- 📈 Contribution & Activity -->
 <table>
 <tr>
-<td align="center" width="50%">
-
-#### 🏆 Featured Repositories by Stars
-
-| Repository | ⭐ Stars | 📦 Language | Description |
-|:---|:---:|:---:|:---|
-| [ai-agent-daily-mentor](https://github.com/Marcos-wu/ai-agent-daily-mentor) | ![](https://img.shields.io/github/stars/Marcos-wu/ai-agent-daily-mentor?style=social) | — | 一个规划学习agent应用开发的导师skills |
-| [tool-navigation](https://github.com/Marcos-wu/tool-navigation) | ![](https://img.shields.io/github/stars/Marcos-wu/tool-navigation?style=social) | TypeScript | 一个工具导航网站 |
-| [ai-interview](https://github.com/Marcos-wu/ai-interview) | ![](https://img.shields.io/github/stars/Marcos-wu/ai-interview?style=social) | Python | 简历助手 |
-
-</td>
 <td align="center" width="50%">
 
 #### 📈 Contribution & Stats
@@ -81,8 +72,6 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcos-wu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
 
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
 
 #### 🔥 Top Languages
@@ -90,15 +79,12 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-wu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
 
 #### 📅 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-wu&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Activity Graph" width="100%" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
