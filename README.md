@@ -3,10 +3,6 @@
 <!-- Typing SVG Slogan -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marcos，+an+AI+Full-Stack+Developer+👋;A+Gen+Z+Coder+Born+in+2006+💻;Bridging+LLMs+with+Modern+Web+Tech+🚀;Actively+Looking+For+an+Internship!+🎯)](https://git.io/typing-svg)
 
-<!-- 🌟 Star Total Badge (Dynamic) -->
-[![GitHub Stars](https://img.shields.io/github/stars/Marcos-wu?style=for-the-badge&label=Total%20Stars&color=yellow&logo=github&logoColor=white)](https://github.com/Marcos-wu?tab=repositories)
-[![GitHub Followers](https://img.shields.io/github/followers/Marcos-wu?style=for-the-badge&label=Followers&color=blue&logo=github&logoColor=white)](https://github.com/Marcos-wu)
-[![GitHub Repos](https://img.shields.io/github/repos/Marcos-wu?style=for-the-badge&label=Repos&color=green&logo=github&logoColor=white)](https://github.com/Marcos-wu?tab=repositories)
 
 **` 🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP `**
 
@@ -55,12 +51,6 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 
 <div align="center">
 
-<!-- 🌟 Real-Time Star Count (shields.io queries GitHub API on every page load) -->
-[![ai-agent-daily-mentor Stars](https://img.shields.io/github/stars/Marcos-wu/ai-agent-daily-mentor?style=for-the-badge&label=ai-agent-daily-mentor&logo=github&logoColor=white&color=yellow)](https://github.com/Marcos-wu/ai-agent-daily-mentor)
-[![tool-navigation Stars](https://img.shields.io/github/stars/Marcos-wu/tool-navigation?style=for-the-badge&label=tool-navigation&logo=github&logoColor=white&color=blue)](https://github.com/Marcos-wu/tool-navigation)
-[![ai-interview Stars](https://img.shields.io/github/stars/Marcos-wu/ai-interview?style=for-the-badge&label=ai-interview&logo=github&logoColor=white&color=green)](https://github.com/Marcos-wu/ai-interview)
-<br/>
-<br/>
 
 <!-- 📈 Contribution & Activity -->
 <table>
@@ -82,9 +72,6 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 </tr>
 </table>
 
-#### 📅 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-wu&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
