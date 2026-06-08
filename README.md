@@ -51,9 +51,8 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 
 </div>
 
----
+
 
 <div align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i><br>
-  <b><a href="mailto:marcos34578865434578757@gmail.com">Let's build something amazing together!</a></b>
 </div>
