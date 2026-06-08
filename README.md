@@ -3,6 +3,11 @@
 <!-- Typing SVG Slogan -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marcos，+an+AI+Full-Stack+Developer+👋;A+Gen+Z+Coder+Born+in+2006+💻;Bridging+LLMs+with+Modern+Web+Tech+🚀;Actively+Looking+For+an+Internship!+🎯)](https://git.io/typing-svg)
 
+<!-- 🌟 Star Total Badge (Dynamic) -->
+[![GitHub Stars](https://img.shields.io/github/stars/Marcos-wu?style=for-the-badge&label=Total%20Stars&color=yellow&logo=github&logoColor=white)](https://github.com/Marcos-wu?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/Marcos-wu?style=for-the-badge&label=Followers&color=blue&logo=github&logoColor=white)](https://github.com/Marcos-wu)
+[![GitHub Repos](https://img.shields.io/github/repos/Marcos-wu?style=for-the-badge&label=Repos&color=green&logo=github&logoColor=white)](https://github.com/Marcos-wu?tab=repositories)
+
 **` 🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP `**
 
 [![My Blog](https://img.shields.io/badge/Visit_My_Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://marcos-blog-project.vercel.app/)
@@ -49,11 +54,56 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={your_github_username}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={your_github_username}&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<!-- 🌟 Star History Chart -->
+<img src="https://api.star-history.com/svg?repos=Marcos-wu/ai-agent-daily-mentor,Marcos-wu/ai-interview,Marcos-wu/tool-navigation&type=Date" alt="Star History Chart" width="600"/>
+
+<br/>
+
+<!-- ⭐ Repository Star Breakdown -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🏆 Featured Repositories by Stars
+
+| Repository | ⭐ Stars | 📦 Language | Description |
+|:---|:---:|:---:|:---|
+| [ai-agent-daily-mentor](https://github.com/Marcos-wu/ai-agent-daily-mentor) | ![](https://img.shields.io/github/stars/Marcos-wu/ai-agent-daily-mentor?style=social) | — | 一个规划学习agent应用开发的导师skills |
+| [tool-navigation](https://github.com/Marcos-wu/tool-navigation) | ![](https://img.shields.io/github/stars/Marcos-wu/tool-navigation?style=social) | TypeScript | 一个工具导航网站 |
+| [ai-interview](https://github.com/Marcos-wu/ai-interview) | ![](https://img.shields.io/github/stars/Marcos-wu/ai-interview?style=social) | Python | 简历助手 |
+
+</td>
+<td align="center" width="50%">
+
+#### 📈 Contribution & Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Marcos-wu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 🔥 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-wu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+#### 📅 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-wu&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Activity Graph" width="100%" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
+
 <div align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i><br>
   <b><a href="mailto:marcos34578865434578757@gmail.com">Let's build something amazing together!</a></b>
