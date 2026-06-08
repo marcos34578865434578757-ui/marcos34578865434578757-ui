@@ -47,30 +47,6 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-<!-- 📈 Contribution & Activity -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-#### 📈 Contribution & Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marcos-wu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-#### 🔥 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-wu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
 
 
 </div>
