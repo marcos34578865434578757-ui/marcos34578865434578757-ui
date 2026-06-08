@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Slogan -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marcos，+an+AI+Full-Stack+Developer+👋;A+Gen+Z+Coder+Born+in+2006+💻;Bridging+LLMs+with+Modern+Web+Tech+🚀;ACTIVELY+LOOKING+FOR+AN+AI+AGENT+APPLICATION+DEVELOPMENT+ENGINEER ROLE+!+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Marcos%EF%BC%8C+an+AI+Full-Stack+Developer+%F0%9F%91%8B;A+Gen+Z+Coder+Born+in+2006+%F0%9F%92%BB;Bridging+LLMs+with+Modern+Web+Tech+%F0%9F%9A%80;ACTIVELY+LOOKING+FOR+AN+AI+AGENT+APPLICATION+DEVELOPMENT+ENGINEER+ROLE+!+%F0%9F%8F%AF)](https://git.io/typing-svg)
 
 
 **` 🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP `**
@@ -54,5 +54,6 @@ Hi! I'm a passionate Gen Z developer born in **2006**, currently navigating the 
 
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i><br>
+  <i>"Share code, share ideas."</i><br>
+  <i>"Progress over perfection."</i><br>
 </div>
