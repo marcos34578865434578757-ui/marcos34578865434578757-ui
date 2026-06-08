@@ -3,7 +3,7 @@
 <h1>Hi, I'm Marcos 👋</h1>
 <h3>A Gen Z Coder Born in 2006 💻</h3>
 <h3>Bridging LLMs with Modern Web Tech 🚀</h3>
-<h3>ACTIVELY LOOKING FOR AN AI AGENT APPLICATION DEVELOPMENT ENGINEER ROLE ! 🎯</h3>
+<h3>AI应用开发者 in training Building with FastAPI + RAG + Agents ! 🎯</h3>
 
 
 **` 🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP `**
